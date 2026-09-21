@@ -97,7 +97,7 @@ Options:
               num            - Good ol fashion Numbers
               numbered-balls - These are like pool balls
               numbered-cubes - These are like the pool balls but just cubes
-              open-source    - Open Source icon emojis
+              opensource    - Open Source icon emojis
               pglangs        - These are programming language icons emojis
               plants         - Plants of sorts
               shapes         - Squares and Circles of a few colors
